@@ -21,7 +21,9 @@ This helps produce more reliable results than ad hoc prompting.
 
 Skills are compatible with:
 - Anthropic Claude Skills: https://code.claude.com/docs/en/skills
+  - For instructions to use skills in Claude, see https://support.claude.com/en/articles/12512180-use-skills-in-claude 
 - OpenAI Codex Skills:https://developers.openai.com/codex/skills
+  - For instructions to use skills in Codex, see https://developers.openai.com/codex/skills  
 - Custom AI agents and internal AI tools
 
 # Disclaimer
