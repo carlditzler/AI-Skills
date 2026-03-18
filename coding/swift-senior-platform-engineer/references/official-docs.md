@@ -1,0 +1,13 @@
+# Official docs and primary references
+- OpenAI Codex agent skills docs: https://developers.openai.com/codex/skills/
+- OpenAI Codex best practices: https://developers.openai.com/codex/learn/best-practices/
+- OpenAI Codex prompting guide: https://developers.openai.com/cookbook/examples/gpt-5/codex_prompting_guide/
+- Anthropic Claude Code skills docs: https://docs.anthropic.com/en/docs/claude-code/slash-commands
+- Anthropic Claude Code subagents and skill preload: https://docs.anthropic.com/en/docs/claude-code/sub-agents
+- Anthropic Claude Code common workflows: https://docs.anthropic.com/en/docs/claude-code/common-workflows
+- SwiftUI docs: https://developer.apple.com/documentation/swiftui
+- UIKit docs: https://developer.apple.com/documentation/uikit
+- AppKit docs: https://developer.apple.com/documentation/appkit
+- Metal docs: https://developer.apple.com/documentation/metal
+- Apple Human Interface Guidelines: https://developer.apple.com/design/human-interface-guidelines/
+- Swift book: https://docs.swift.org/swift-book/documentation/the-swift-programming-language/

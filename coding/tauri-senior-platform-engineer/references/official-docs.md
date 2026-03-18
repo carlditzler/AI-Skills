@@ -1,0 +1,26 @@
+# Official docs and primary references
+- OpenAI Codex agent skills docs: https://developers.openai.com/codex/skills/
+- OpenAI Codex best practices: https://developers.openai.com/codex/learn/best-practices/
+- OpenAI Codex prompting guide: https://developers.openai.com/cookbook/examples/gpt-5/codex_prompting_guide/
+- Anthropic Claude Code skills docs: https://docs.anthropic.com/en/docs/claude-code/slash-commands
+- Anthropic Claude Code subagents and skill preload: https://docs.anthropic.com/en/docs/claude-code/sub-agents
+- Anthropic Claude Code common workflows: https://docs.anthropic.com/en/docs/claude-code/common-workflows
+- Tauri v2 docs home: https://v2.tauri.app/start/
+- Tauri architecture: https://v2.tauri.app/concept/architecture/
+- Tauri IPC: https://v2.tauri.app/concept/inter-process-communication/
+- Calling Rust from frontend: https://v2.tauri.app/develop/calling-rust/
+- Calling frontend from Rust: https://v2.tauri.app/develop/calling-frontend/
+- Tauri state management: https://v2.tauri.app/develop/state-management/
+- Tauri security: https://v2.tauri.app/security/
+- Tauri capabilities: https://v2.tauri.app/security/capabilities/
+- Tauri configuration: https://v2.tauri.app/develop/configuration-files/
+- Rust book: https://doc.rust-lang.org/book/
+
+- React docs: https://react.dev/
+- Vue docs: https://vuejs.org/guide/introduction.html
+- Svelte docs: https://svelte.dev/docs
+- Solid docs: https://docs.solidjs.com/
+- Tauri distribute docs: https://v2.tauri.app/distribute/
+- Tauri macOS bundle: https://v2.tauri.app/distribute/macos-application-bundle/
+- Tauri Windows installer: https://v2.tauri.app/distribute/windows-installer/
+- Tauri GitHub pipeline: https://v2.tauri.app/distribute/pipelines/github/

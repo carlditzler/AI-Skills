@@ -1,0 +1,18 @@
+# Official docs and primary references
+- OpenAI Codex agent skills docs: https://developers.openai.com/codex/skills/
+- OpenAI Codex best practices: https://developers.openai.com/codex/learn/best-practices/
+- OpenAI Codex prompting guide: https://developers.openai.com/cookbook/examples/gpt-5/codex_prompting_guide/
+- Anthropic Claude Code skills docs: https://docs.anthropic.com/en/docs/claude-code/slash-commands
+- Anthropic Claude Code subagents and skill preload: https://docs.anthropic.com/en/docs/claude-code/sub-agents
+- Anthropic Claude Code common workflows: https://docs.anthropic.com/en/docs/claude-code/common-workflows
+- Flutter docs: https://docs.flutter.dev/
+- Flutter architecture guide: https://docs.flutter.dev/app-architecture
+- Flutter architecture recommendations: https://docs.flutter.dev/app-architecture/recommendations
+- Flutter architectural overview: https://docs.flutter.dev/resources/architectural-overview
+- Flutter performance best practices: https://docs.flutter.dev/perf/best-practices
+- Adaptive design best practices: https://docs.flutter.dev/ui/adaptive-responsive/best-practices
+- Flutter deployment iOS: https://docs.flutter.dev/deployment/ios
+- Flutter deployment Android: https://docs.flutter.dev/deployment/android
+- Flutter iOS setup: https://docs.flutter.dev/platform-integration/ios/setup
+- Flutter Android setup: https://docs.flutter.dev/platform-integration/android/setup
+- Flutter widget catalog: https://docs.flutter.dev/ui/widgets

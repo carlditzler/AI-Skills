@@ -1,0 +1,15 @@
+# Official docs and primary references
+- OpenAI Codex agent skills docs: https://developers.openai.com/codex/skills/
+- OpenAI Codex best practices: https://developers.openai.com/codex/learn/best-practices/
+- OpenAI Codex prompting guide: https://developers.openai.com/cookbook/examples/gpt-5/codex_prompting_guide/
+- Anthropic Claude Code skills docs: https://docs.anthropic.com/en/docs/claude-code/slash-commands
+- Anthropic Claude Code subagents and skill preload: https://docs.anthropic.com/en/docs/claude-code/sub-agents
+- Anthropic Claude Code common workflows: https://docs.anthropic.com/en/docs/claude-code/common-workflows
+- Android develop docs: https://developer.android.com/develop
+- Compose docs: https://developer.android.com/develop/ui/compose/documentation
+- Compose Material 3 guide: https://developer.android.com/develop/ui/compose/designsystems/material3
+- Android Views layout docs: https://developer.android.com/develop/ui/views/layout/declaring-layout
+- Edge-to-edge in Views: https://developer.android.com/develop/ui/views/layout/edge-to-edge
+- Material Design for Views: https://developer.android.com/develop/ui/views/theming/look-and-feel
+- View API reference: https://developer.android.com/reference/android/view/View
+- Kotlin docs: https://kotlinlang.org/docs/home.html
