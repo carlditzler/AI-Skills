@@ -8,7 +8,7 @@ It is intended both to demonstrate my experience designing AI skills and to prov
 
 # What Are AI Skills?
 
-AI Skills are structured instruction modules that guide LLMs to perform specialized tasks consistently.
+AI Skills are structured instruction modules that guide LLMs to perform specialized tasks consistently. Skills may include persistent memory, sub-agents, continuous file system access, and MCP tool integrations when necessary.
 
 Instead of relying on a single prompt, a skill defines AI's:
 - Role
@@ -32,3 +32,4 @@ Skills are compatible with:
 The legal skills in this repository are not legal advice. They are intended as examples and workflow assets, not as a substitute for a qualified legal professional.
 
 Before using any skill, make sure it is reviewed in consideration of your organization’s confidentiality requirements, professional responsibility obligations, privacy and security standards, and applicable law.
+Always check AI's work.
