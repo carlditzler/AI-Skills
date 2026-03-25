@@ -52,10 +52,10 @@ Use of these agents and skills should be evaluated in light of internal data han
 
 ## Author and License
 
-Carl Ditzler  
-AI | Legal Technology | Legal Operations  
+Carl Ditzler
+AI | Legal Technology | Legal Operations
 
-LinkedIn:  
+Open to Work, see LinkedIn:
 https://www.linkedin.com/in/carlditzler/
 
 Use, modification, and distribution must comply with the Apache License 2.0.
