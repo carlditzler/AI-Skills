@@ -6,7 +6,7 @@ This folder includes AI agents and skills designed for legal, compliance, privac
 
 These agents and skills include structured instructions for LLMs, including Claude, Codex, and similar models, to enable more consistent execution of complex legal workflows such as contract review, AI governance, outside counsel management, and regulatory analysis.
 
-This folder is intended for attorneys, law firms, in-house legal teams, legal operations and legal technology teams, and compliance, privacy, and risk professionals. It is provided for demonstration purposes and is designed to show how AI can be applied in legal and similar environments with structure and operational fit, rather than through ad hoc prompting, and how AI can be tailored to specific use cases.
+This folder is intended for attorneys, law firms, in-house legal teams, legal operations and legal technology teams, and compliance, privacy, and risk professionals to experiment. It is provided for demonstration purposes and is designed to show how AI can be applied in legal and similar environments with structure and operational fit, rather than through ad hoc prompting, and how AI can be tailored to specific use cases.
 
 ## What These Agents and Skills Do
 
