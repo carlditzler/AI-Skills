@@ -55,7 +55,8 @@ Use of these agents and skills should be evaluated in light of internal data han
 Carl Ditzler
 AI | Legal Technology | Legal Operations
 
-Open to Work, see LinkedIn:
+I am open to work following a recent workforce reduction. If you’d like to discuss an opportunity or learn more about my experience, please see my LinkedIn profile:
+
 https://www.linkedin.com/in/carlditzler/
 
 Use, modification, and distribution must comply with the Apache License 2.0.
