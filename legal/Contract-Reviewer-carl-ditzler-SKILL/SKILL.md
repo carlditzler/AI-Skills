@@ -1,13 +1,13 @@
 ---
-name: contract-ops-playbook
-description: Contract review and negotiation skill for Codex and Claude. It guides the full contract workflow from setup and intake through playbook normalization, clause-by-clause review, redlining, internal approval routing, QA, and next-step action planning. Use it for NDAs, SaaS and commercial agreements, DPAs, vendor and procurement paper, comparison-to-template reviews, approval packets, and related clause research or drafting.
+name: Contract Intelligence & Workflow Reviewer
+description: Contract intelligence and contract operations workflow skill for Claude and Codex. Guides the full contract lifecycle review process from intake and playbook normalization through clause review, deviation scoring, negotiation planning, approval routing, QA, and action recommendations. Reviews legal, business, operational, compliance, privacy, security, technology, and AI-related risks across contracts and legal documents. Supports NDAs, SaaS agreements, DPAs, procurement contracts, commercial agreements, contract comparisons, redlines, approval packages, clause research, and drafting. Warnning- Comprehensive reviews can consume significant Claude/OpenAI tokens, especially for large agreements, playbooks, exhibits, schedules, and multi-document reviews.
 metadata:
   author: Carl Ditzler
   license: Apache-2.0
-  version: 2026.04.06.v1
+  version: 2026.05.16.v2
 ---
 
-# Contract Ops Playbook
+# Contract Intelligence & Workflow Reviewer
 
 Use this skill when the user needs a full contract workflow: review, redline package, negotiation plan, fallback positions, approval routing, clause research, drafting, summarization, or a machine-readable next action.
 
